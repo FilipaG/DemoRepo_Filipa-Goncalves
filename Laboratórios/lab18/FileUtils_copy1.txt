@@ -1,0 +1,6 @@
+Crie uma classe Java denominada FileUtils. Esta classe implementa métodos utilitários para realizar operações sobre ficheiros.
+Após a criação da classe, implemente o método copyTextFile que copia o conteúdo de um ficheiro de texto para outro. Este método recebe por parâmetro o caminho do ficheiro original e o caminho onde será guardada a copia do mesmo. Retorna true se a cópia for bem sucedida.
+Em seguida encontra-se um troço de código referente ao método mencionado.
+Complete a implementação do método copyBinaryFile (bem como a sua inclusão na classe FileUtils) que faz uma cópia de um ficheiro, como acontece no método copyTextFile mas relativamente a ficheiros binários (como por exemplo, uma imagem).
+Acrescente à classe FileUtils, o método parseTextFile que faz parse de um ficheiro de texto para um array de Strings conforme o delimitador indicado por parâmetro.
+Em seguida encontra-se um troço de código relativo a este método.
