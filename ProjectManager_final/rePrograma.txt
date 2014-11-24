@@ -1,0 +1,14 @@
+rePrograma, cost: 1020400.0€
+Local: Cave, Saldanha, cost: 500.0€
+Manager: Filipa, payment per hour:20.0€, cost: 6500.0€
+Team: 4Jose, payment per hour:100.0€, cost: 3500.0€
+
+rePrograma - a tua carreira, cost: 1009900.0€
+Local: cave2, saldanha, cost: 400.0€
+Manager: Gonçalo, payment per hour:100000.0€, cost: 1005000.0€
+Team: filipa, payment per hour:40.0€, cost: 4500.0€
+
+
+
+
+
